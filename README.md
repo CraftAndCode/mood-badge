@@ -11,7 +11,7 @@ Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do f
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/flashing-leds", 
     "description": "Learn to flash external LEDs", 
     "cardType": "tutorial",
-    "label": "New? Start here!",
+    "label": "Easy",
     "labelClass": "green ribbon small"
 }
 ]
