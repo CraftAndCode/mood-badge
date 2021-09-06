@@ -6,7 +6,7 @@ Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do f
 ```codecard
 [
 {
-    "name": "2.1 Using LEDs",
+    "name": "2.1 Flashing LEDs",
     "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/flashing-leds", 
     "description": "Learn to flash external LEDs", 
