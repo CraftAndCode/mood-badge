@@ -1,6 +1,6 @@
 ### @autoOpen = true
 ### ~avatar
-Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do fantastic things!
+Hello! Welcome to MakeCode, the place where you can program your Micro:bit to do fantastic things!
 ### ~
 ## Coding
 
@@ -10,7 +10,7 @@ Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do f
     "name": "2.1 Flashing LEDs",
     "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/flashing-leds", 
-    "description": "Learn to flash external LEDs", 
+    "description": "Learn to make external LEDs flash", 
     "cardType": "tutorial",
     "label": "Easy",
     "labelClass": "green ribbon small"
@@ -26,7 +26,7 @@ This is a program for your mood badge and instructions on how to modify it.
     "name": "Personalize your mood badge!",
     "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/mood-badge/badge", 
-    "description": "Make your badge show the actual moods, name and time", 
+    "description": "Make your badge show actual moods, with name and time", 
     "cardType": "tutorial",
     "label": "Advanced",
     "labelClass": "orange ribbon small"
