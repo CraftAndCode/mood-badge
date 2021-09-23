@@ -14,6 +14,15 @@ Hello! Welcome to MakeCode, the place where you can program your Micro:bit to do
     "cardType": "tutorial",
     "label": "Easy",
     "labelClass": "green ribbon small"
+},
+{
+    "name": "2.2 Sensors: accelerometer",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/sensors-accelerometer", 
+    "description": "React to movement and orientation of Micro:bit", 
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
 }
 ]
 ```
