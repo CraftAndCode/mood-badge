@@ -34,7 +34,7 @@ This is a program for your mood badge and instructions on how to modify it.
 {
     "name": "Personalize your mood badge!",
     "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
-    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/mood-badge/badge", 
+    "url": "https://makecode.microbit.org/#tutorial:45148-87488-20400-85127", 
     "description": "Make your badge show actual moods, with name and time", 
     "cardType": "tutorial",
     "label": "Advanced",
