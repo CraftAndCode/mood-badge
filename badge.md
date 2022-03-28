@@ -192,7 +192,7 @@ Hello! This is a program for your Mood Badge. Let's modify it!
 
 ## Step 1 @showDialog
 
-For your badge to function properly, you need to input your name and the current time. You can also change the moods displayed. First, find this place in the code:
+For your badge to function properly, you should input your name and the current time. Also, you can change the displayed moods. First, find this place in the code:
 ```blocks
 let name = "Your name"
 timeanddate.setTime(11, 30, 0, timeanddate.MornNight.AM)
@@ -214,19 +214,19 @@ images.createImage(`
 ```
 ## Step 2 @showHint
 ### 1. Setting the name
-Change the text inside the ``||variables.set||`` block to show your name. This text will be displayed when the ``|B|`` button is pressed.
+Change the text inside the ``||variables.set||`` block to be your name. This text will be shown when the ``|B|`` button is pressed.
 ```hint
-You can type anything other than your name as well.
+You can type anything other than your name instead.
 ```
 ```block
 let name = "Any other text"
 ```
 ## Step 3 @showHint
 ### 2. Setting the current time
-The time is reset every time your device is turned on. You can set it with the ``||timeanddate.set time||`` block. To see the current time, press the Micro:bit logo.
+The time is reset every time when your device is turned on. You can set it with the ``||timeanddate.set time||`` block. To see the current time, press the Micro:bit logo.
 ```hint
-Enter the time in hours, minutes, and seconds.
-You can also can switch between AM and PM. 
+Fill in the hours, minutes and seconds.
+Also, you can switch between AM and PM. 
 ```
 ```block
 timeanddate.setTime(11, 30, 0, timeanddate.MornNight.AM)
@@ -234,7 +234,7 @@ timeanddate.setTime(11, 30, 0, timeanddate.MornNight.AM)
 
 ## Step 4 @showHint
 ### 3. Changing moods
-Here is a list of the moods  your badge can show. Moods can be displayed and changed around with the ``|A|`` button. You can change the pictures inside the ``||images.icon image||`` blocks to get a set of moods that you like.
+This is a list of moods that your badge can show. Moods can be displayed and switched with the ``|A|`` button. Feel free to change the pictures inside the ``||images.icon image||`` blocks to get the set of moods that you like.
 ```block
 List_of_moods = [
 images.iconImage(IconNames.Silly),
@@ -255,13 +255,12 @@ images.createImage(`
 
 ## Step 5
 ### 3. Changing moods
-To customize these moods even more, you can replace some (or even all) of the ``||images.icon image||`` blocks with ``||images.create image||`` blocks and add your own pictures!
+To customize these moods even more, you can replace some (or even all) of the ``||images.icon image||`` blocks with ``||images.create image||`` blocks and fill in your own pictures!
 
 ## Step 6
 ### 3. Changing moods
-Want to display more moods? You can expand or shrink your list with ``||arrays.+||`` and  ``||arrays.-||`` and add new moods to your options!
+Want to display more moods? You can expand or shrink your list with ``||arrays.+||`` and  ``||arrays.-||`` and add new moods to your list!
 
 ## Step 7
-Completed all the tasks? Awesome! Download the code to your Micro:bit and check out the new behaviors!
+Completed all the tasks? Awesome! Download the code to your Micro:bit and check its new behaviour!
 
- 

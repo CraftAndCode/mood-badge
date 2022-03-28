@@ -12,11 +12,11 @@ input.onButtonPressed(Button.AB, function () {
 input.onButtonPressed(Button.B, function () {
     Mode = "Name"
 })
-input.onGesture(Gesture.Shake, function () {
-    Mode = "Oracle"
-})
 input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     Mode = "Watch"
+})
+input.onGesture(Gesture.Shake, function () {
+    Mode = "Oracle"
 })
 let mood = 0
 let Mode = ""
